@@ -1,0 +1,44 @@
+name: Generate legal PDFs
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - "legal/*.md"   # only run when markdown policies change
+
+jobs:
+  build-pdfs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Install pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc \
+            texlive-latex-recommended \
+            texlive-latex-extra \
+            texlive-fonts-recommended \
+            texlive-xetex
+
+      - name: Generate PDFs from Markdown
+        run: |
+          mkdir -p legal-pdf
+          for file in legal/*.md; do
+            base="$(basename "$file" .md)"
+            echo "Converting $file -> legal-pdf/${base}.pdf"
+            pandoc "$file" \
+              -o "legal-pdf/${base}.pdf" \
+              --from markdown \
+              --toc \
+              --number-sections \
+              --pdf-engine=xelatex
+          done
+
+      - name: Commit and push updated PDFs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update generated legal PDFs"
+          file_pattern: legal-pdf/*.pdf
