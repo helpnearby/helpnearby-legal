@@ -34,7 +34,9 @@ jobs:
               --from markdown \
               --toc \
               --number-sections \
-              --pdf-engine=xelatex
+              --pdf-engine=xelatex \
+              --include-before-body=titlepage.tex \
+              --include-in-header=section-breaks.tex
           done
 
       - name: Commit and push updated PDFs

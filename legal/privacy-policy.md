@@ -1,10 +1,8 @@
-# Privacy Policy
-
-- toc
-{:toc}
+---
+title: Privacy Policy
 ---
 
-## Introduction
+# Introduction
 
 **Last updated:** 22 Nov 2025 \
 **Company:** Help Nearby Pty Ltd \
@@ -24,7 +22,7 @@ A copy of the Australian Privacy Principles may be obtained from the website of 
 
 ---
 
-## What Is Personal Information, and Why Do We Collect It?
+# What Is Personal Information, and Why Do We Collect It?
 
 Personal Information is information or an opinion that identifies an individual. This Personal Information is obtained in many ways, including:
 
@@ -49,18 +47,18 @@ When we collect Personal Information we will, where appropriate and where possib
 
 ---
 
-## Information We Collect
+# Information We Collect
 
 We collect the following categories of information:
 
-### Basic Contact Information
+## Basic Contact Information
 
 - Name  
 - Email address  
 - Phone number  
 - Address  
 
-### Identity Verification & Licensing
+## Identity Verification & Licensing
 
 For service providers and businesses, we may collect:
 
@@ -71,7 +69,7 @@ For service providers and businesses, we may collect:
 - company registration details  
 - employee details (if applicable)  
 
-### Profile Information
+## Profile Information
 
 - business name  
 - services offered  
@@ -80,7 +78,7 @@ For service providers and businesses, we may collect:
 - availability schedules  
 - employee rosters (for business accounts)  
 
-### Booking & Job Information
+## Booking & Job Information
 
 - job requests and details  
 - job location  
@@ -90,7 +88,7 @@ For service providers and businesses, we may collect:
 - receipts and transaction history  
 - reviews and ratings  
 
-### Chat & Communication Data
+## Chat & Communication Data
 
 - messages exchanged between users and service providers  
 - timestamps  
@@ -98,7 +96,7 @@ For service providers and businesses, we may collect:
 
 Chats are not private and may be reviewed by Help Nearby staff to ensure platform safety and compliance, including for safety, fraud prevention, and resolving disputes.
 
-### Payment Information
+## Payment Information
 
 Processed through Stripe and Stripe Connect:
 
@@ -110,7 +108,7 @@ Processed through Stripe and Stripe Connect:
 
 Help Nearby does not store full credit card numbers.
 
-### Location Information
+## Location Information
 
 We may collect:
 
@@ -120,7 +118,7 @@ We may collect:
 
 We do not track GPS location unless explicitly provided by you.
 
-### Device & Technical Data
+## Device & Technical Data
 
 Through Expo, Vercel, and analytics tools:
 
@@ -132,7 +130,7 @@ Through Expo, Vercel, and analytics tools:
 - error logs  
 - usage analytics  
 
-### Cookies & Analytics
+## Cookies & Analytics
 
 Using Google Analytics, we collect anonymous usage statistics for improving our platform.  
 Cookies may store:
@@ -143,7 +141,7 @@ Cookies may store:
 
 ---
 
-## Cookies Rejection Option
+# Cookies Rejection Option
 
 You can choose to refuse or disable cookies by adjusting your browser or device settings. Most browsers allow you to:
 
@@ -162,7 +160,7 @@ Instructions for managing cookies can be found in your browser’s help menu. Ex
 
 ---
 
-## How We Collect Information
+# How We Collect Information
 
 We collect Personal Information when you:
 
@@ -188,7 +186,7 @@ We may also collect information indirectly from:
 
 ---
 
-## Cross-Platform Disclosure
+# Cross-Platform Disclosure
 
 Help Nearby is accessible through our website, iOS app, Android app, and apps built using Expo. The type of information collected and how it is processed may vary slightly between platforms due to differences in operating system permissions, security models, and device capabilities.
 
@@ -202,11 +200,11 @@ Regardless of the platform you use, this Privacy Policy applies to all Personal 
 
 ---
 
-## Why We Collect Your Information
+# Why We Collect Your Information
 
 We collect your Personal Information for the following purposes:
 
-### To Provide and Improve Our Services
+## To Provide and Improve Our Services
 
 - matching customers with service providers  
 - enabling bookings and scheduling  
@@ -216,14 +214,14 @@ We collect your Personal Information for the following purposes:
 - enabling messaging between parties  
 - generating receipts and records  
 
-### Verification & Compliance
+## Verification & Compliance
 
 - identity verification  
 - trade license and insurance validation  
 - fraud prevention  
 - ensuring compliance with Australian law  
 
-### Payments & Escrow
+## Payments & Escrow
 
 - processing transactions  
 - holding funds in escrow  
@@ -231,21 +229,21 @@ We collect your Personal Information for the following purposes:
 - resolving billing disputes  
 - handling chargebacks  
 
-### Communication
+## Communication
 
 - notifications  
 - reminders  
 - updates and service alerts  
 - customer support  
 
-### Safety & Dispute Resolution
+## Safety & Dispute Resolution
 
 - monitoring messaging for compliance  
 - investigating complaints  
 - assessing fraud or misconduct  
 - enforcing our Terms of Service  
 
-### Direct Marketing
+## Direct Marketing
 
 We may use your Personal Information to provide you with information about new features, updates, promotions, or services offered by Help Nearby. You may receive marketing communications if you have:
 
@@ -260,7 +258,7 @@ You can opt out of marketing communications at any time by:
 
 ---
 
-## When We Disclose Personal Information
+# When We Disclose Personal Information
 
 We may disclose your Personal Information to:
 
@@ -283,7 +281,7 @@ We may also disclose information:
 
 ---
 
-## Overseas Transfers
+# Overseas Transfers
 
 Some third-party services (Supabase, Vercel, Stripe, LocationIQ, Google Analytics) may store data in regions outside Australia, including the United States and Europe. By using our services, you consent to the disclosure of your Personal Information to overseas recipients.
 
@@ -291,7 +289,7 @@ We take reasonable steps to ensure they comply with privacy standards equivalent
 
 ---
 
-## Security of Personal Information
+# Security of Personal Information
 
 We take reasonable steps to protect Personal Information from misuse, loss, unauthorised access, modification, or disclosure.
 
@@ -306,7 +304,7 @@ Security controls may include:
 
 ---
 
-## Data Breach Notification (NDB Scheme)
+# Data Breach Notification (NDB Scheme)
 
 We comply with the requirements of the Notifiable Data Breaches (NDB) scheme under the Privacy Act 1988 (Cth).
 
@@ -325,7 +323,7 @@ Notifications will include:
 
 ---
 
-## Data Retention
+# Data Retention
 
 We retain Personal Information only as long as needed for our functions or to meet legal obligations. Typical retention periods include:
 
@@ -338,19 +336,19 @@ When data is no longer required, it is securely destroyed or de-identified.
 
 ---
 
-## Children / Minors
+# Children / Minors
 
 Our services are not intended for users under 18.
 
 ---
 
-## Links to Third-Party Sites
+# Links to Third-Party Sites
 
 We are not responsible for the privacy practices of external websites.
 
 ---
 
-## Access & Correction
+# Access & Correction
 
 You may request access to, or correction of, your Personal Information at any time by contacting us at:
 
@@ -362,19 +360,19 @@ We do not charge for access requests, but may charge administration fees for cop
 
 ---
 
-## Deleting Your Data
+# Deleting Your Data
 
 You may request deletion of your account and certain data. Some records must be retained for legal, financial, or compliance reasons (e.g., transaction records, receipts).
 
 ---
 
-## Policy Updates
+# Policy Updates
 
 We may update this Privacy Policy from time to time. The revised version will be published on our website and in the mobile app.
 
 ---
 
-## Complaints & Enquiries
+# Complaints & Enquiries
 
 If you have questions or concerns regarding this Privacy Policy, please contact:
 

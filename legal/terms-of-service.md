@@ -1,10 +1,9 @@
-# Help Nearby Terms of Service
-
-- toc
-{:toc}
+---
+title: Terms of Service
 ---
 
-## Agreement to Terms
+
+# Agreement to Terms
 
 **Last updated**: 22 Nov 2025 \
 **Company**: Help Nearby Pty Ltd \
@@ -31,7 +30,7 @@ These Terms apply in addition to any other policies we publish on the Platform, 
 
 ---
 
-## Definitions
+# Definitions
 
 In these Terms, capitalised words have the meanings set out below.
 
@@ -52,7 +51,7 @@ Other terms are defined where they first appear.
 
 ---
 
-## User Eligibility
+# User Eligibility
 
 **Age and capacity**
 You must be at least 18 years old and have the legal capacity to enter into binding contracts to create an Account or use the Platform. By using the Platform, you warrant that you meet these requirements.
@@ -71,7 +70,7 @@ We may refuse, suspend, or revoke your ability to act as a Service Provider at o
 
 ---
 
-## Account Registration
+# Account Registration
 
 **Creating an Account**
 To access most features of the Platform, you must register and create an Account. You agree to:
@@ -107,7 +106,7 @@ You may close your Account at any time by following the in‑app process or cont
 
 ---
 
-## Marketplace Nature of the Platform
+# Marketplace Nature of the Platform
 
 **Help Nearby is a marketplace, not a service provider**
 Help Nearby operates a digital marketplace that connects Customers with independent Service Providers. We do not provide, perform, supervise, or guarantee any Services. All Services are carried out by Service Providers acting in their own capacity and not as our employees, agents, or representatives.
@@ -135,7 +134,7 @@ We may suspend or terminate your Account if we reasonably believe you are doing 
 
 ---
 
-## Service Provider Responsibilities
+# Service Provider Responsibilities
 
 If you are a Service Provider, you agree that:
 
@@ -151,7 +150,7 @@ You acknowledge that failing to meet these obligations may result in warnings, t
 
 ---
 
-## Customer Responsibilities
+# Customer Responsibilities
 
 If you are a Customer, you agree that:
 
@@ -166,7 +165,7 @@ If you fail to meet these obligations, a Service Provider may be entitled to tre
 
 ---
 
-## Bookings, Cancellations & Change Orders
+# Bookings, Cancellations & Change Orders
 
 **Creating a Booking**
 A Booking is created when:
@@ -193,7 +192,7 @@ If a Service Provider fails to attend without reasonable notice, Help Nearby may
 
 ---
 
-## Payments, Escrow & Stripe Connect
+# Payments, Escrow & Stripe Connect
 
 **Payment processing**
 Payments on the Platform are processed by Stripe and/or Stripe Connect on our behalf. By using the Platform, you agree to comply with Stripe's terms and conditions, which may be presented to you when adding a payment method or onboarding as a Service Provider.
@@ -232,7 +231,7 @@ Service Providers are solely responsible for determining and meeting their tax o
 
 ---
 
-## Reviews & Ratings
+# Reviews & Ratings
 
 **Leaving reviews**
 The Platform may allow Customers and Service Providers to rate and review each other after a Job. Reviews must be honest, fair, and based on your own firsthand experience.
@@ -258,7 +257,7 @@ We are not obliged to monitor or moderate reviews but may do so at our discretio
 
 ---
 
-## Prohibited Conduct
+# Prohibited Conduct
 
 This section 11 (together with section 12) constitutes our **Acceptable Use Policy**.
 
@@ -280,7 +279,7 @@ We may investigate and take appropriate action for any suspected breach of this 
 
 ---
 
-## Content & Messaging
+# Content & Messaging
 
 **User content**
 The Platform may allow you to submit, upload, or transmit content, including text, photos, videos, documents, Job descriptions, quotes, invoices, and messages ("User Content"). You are solely responsible for your User Content.
@@ -302,7 +301,7 @@ We may remove or restrict access to any User Content or messages that we reasona
 
 ---
 
-## Intellectual Property
+# Intellectual Property
 
 **Our rights**
 The Platform and all associated content (excluding User Content), including software, source code, databases, designs, text, graphics, logos, icons, photographs, and audio‑visual materials ("Help Nearby Content") are owned or licensed by Help Nearby and are protected by copyright, trade mark, and other intellectual property laws.
@@ -317,7 +316,7 @@ You must not use our trade marks, logos, or branding without our prior written c
 
 ---
 
-## Disclaimer
+# Disclaimer
 
 To the maximum extent permitted by law, the Platform is provided on an "as is" and "as available" basis. While we use reasonable efforts to maintain and operate the Platform, we do not guarantee that it will be uninterrupted, error‑free, secure, or free from viruses or other harmful components.
 
@@ -334,7 +333,7 @@ Nothing in these Terms excludes, restricts, or modifies any consumer guarantees,
 
 ---
 
-## Limitation of Liability
+# Limitation of Liability
 
 **Exclusion of certain loss**
 To the maximum extent permitted by law, Help Nearby is not liable for any loss or damage arising out of or in connection with:
@@ -359,7 +358,7 @@ Where the Australian Consumer Law applies and our services to you are not of a k
 
 ---
 
-## Indemnity
+# Indemnity
 
 You agree to indemnify and hold harmless Help Nearby and its directors, officers, employees, and contractors from and against any loss, damage, liability, cost, or expense (including reasonable legal fees) arising out of or in connection with:
 
@@ -372,7 +371,7 @@ This indemnity is reduced to the extent that the loss is caused by Help Nearby's
 
 ---
 
-## Termination
+# Termination
 
 We may suspend or terminate your access to the Platform (in whole or in part) at any time, with or without notice, if we reasonably believe that you have breached these Terms, pose a risk to other Users or to Help Nearby, or where we are required to do so by law or a regulator.
 
@@ -386,13 +385,13 @@ On termination:
 
 ---
 
-## Governing Law
+# Governing Law
 
 These Terms are governed by the laws of New South Wales, Australia. You submit to the non‑exclusive jurisdiction of the courts of New South Wales and the courts of appeal from them.
 
 ---
 
-## Dispute Resolution
+# Dispute Resolution
 
 **Between Users**
 Customers and Service Providers should first attempt to resolve any dispute between themselves. The Platform provides tools (including messaging and Job records) to assist with this.
@@ -410,7 +409,7 @@ Nothing in this section prevents either party from seeking urgent injunctive rel
 
 ---
 
-## Contact Information
+# Contact Information
 
 If you have any questions about these Terms or the Platform, or wish to make a complaint, please contact us:
 

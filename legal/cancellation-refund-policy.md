@@ -1,10 +1,8 @@
-# Help Nearby Cancellation & Refund Policy
-
-- toc
-{:toc}
+---
+title: Cancellation & Refund Policy
 ---
 
-## About This Policy
+# About This Policy
 
 **Last updated:** 22 November 2025 \
 **Company:** Help Nearby Pty Ltd \
@@ -19,7 +17,7 @@ By making or accepting a Booking on the Platform, you agree to be bound by this 
 
 ---
 
-## General Principles
+# General Principles
 
 **Marketplace nature**
 Help Nearby operates a digital marketplace connecting Customers and independent Service Providers. We do not provide or supervise the Services ourselves. This Policy governs how **Escrow Payments** and other amounts are handled when a Booking is cancelled, changed, or disputed.
@@ -32,7 +30,7 @@ Nothing in this Policy excludes, restricts, or modifies any rights you may have 
 
 ---
 
-## Key Concepts
+# Key Concepts
 
 For the purposes of this Policy:
 
@@ -44,7 +42,7 @@ For the purposes of this Policy:
 
 ---
 
-## Customer Cancellations
+# Customer Cancellations
 
 **Cancelling before the Scheduled Start Time**
 Customers may cancel a Booking through the Platform prior to the Scheduled Start Time. The consequences will generally be as follows, unless otherwise stated in the Booking flow:
@@ -70,7 +68,7 @@ Where the Parties agree, a Booking may be modified via a Change Order instead of
 
 ---
 
-## 5. Service Provider Cancellations
+# Service Provider Cancellations
 
 **Before the Scheduled Start Time**
 If a Service Provider cancels a Booking before the Scheduled Start Time:
@@ -85,7 +83,7 @@ If a Service Provider cancels a Booking after the Scheduled Start Time or fails 
 
 ---
 
-## 6. No‑Shows and Access Issues
+# No‑Shows and Access Issues
 
 **Customer no‑show or access not provided**
 If a Customer does not provide access to the Job location at the Scheduled Start Time (and has not cancelled in accordance with this Policy):
@@ -103,7 +101,7 @@ We may also take account‑level action against the Service Provider, including 
 
 ---
 
-## Safety, Legality, and Unsuitable Conditions
+# Safety, Legality, and Unsuitable Conditions
 
 **Unsafe or illegal work**
 If a Service Provider reasonably believes that:
@@ -121,7 +119,7 @@ Where a Job is not completed due to safety, illegality, or unsuitable conditions
 
 ---
 
-## Change Orders and Price Adjustments
+# Change Orders and Price Adjustments
 
 **Recording changes**
 If the scope of a Job changes, the Customer and Service Provider must record the variation via a Change Order on the Platform. Both parties must agree to the Change Order through the Platform before any additional or reduced work is carried out. This ensures that any additional labour, time, or materials are clearly agreed and reflected in the Escrow Payment.
@@ -143,7 +141,7 @@ In such cases, Help Nearby may determine whether any portion of the Escrow Payme
 
 ---
 
-## Completion of Jobs and Release of Funds
+# Completion of Jobs and Release of Funds
 
 **Manual completion**
 A Job may be manually marked as completed when **both** the Customer and the Service Provider indicate Job completion through the Platform. Once both parties have marked the Job as completed, and subject to any holds, checks, or disputes, the Escrow Payment will be released in accordance with section 9 of the Terms.
@@ -158,7 +156,7 @@ If a dispute is raised before manual or deemed completion, Help Nearby may tempo
 
 ---
 
-## Non‑Refundable Amounts
+# Non‑Refundable Amounts
 
 **Service Fees**
 Unless otherwise stated, Service Fees charged by Help Nearby for use of the Platform are **non‑refundable**, except where we are required to provide a refund under the Australian Consumer Law or other applicable law.
@@ -171,7 +169,7 @@ Where a Service Provider has purchased materials or incurred other expenses spec
 
 ---
 
-## Disputes and Our Role
+# Disputes and Our Role
 
 **Initial resolution between parties**
 Customers and Service Providers should first attempt to resolve any disagreement about a cancellation, refund, or Job outcome between themselves using the Platform's messaging features and records.
@@ -187,7 +185,7 @@ Any decision we make under this Policy is solely for the operation of the Platfo
 
 ---
 
-## Processing of Refunds
+# Processing of Refunds
 
 **Method and timing**
 Where a Customer is entitled to a refund under this Policy, we will generally process the refund using the same payment method used for the original Escrow Payment.
@@ -202,7 +200,7 @@ Refunds will usually be processed in Australian dollars (AUD). Any currency conv
 
 ---
 
-## Chargebacks
+# Chargebacks
 
 If a Customer initiates a chargeback or reversal of a payment with their bank or card issuer, Help Nearby and the Service Provider may be required to provide information to contest the chargeback.
 
@@ -213,7 +211,7 @@ Where a chargeback is upheld:
 
 ---
 
-## Changes to This Policy
+# Changes to This Policy
 
 We may update this Policy from time to time to reflect changes in our processes, the Platform, or applicable laws. When we do, we will update the "Last updated" date at the top of this document. We may also provide additional notice (for example, via the Platform or email) where required.
 
@@ -221,7 +219,7 @@ Your continued use of the Platform after any update to this Policy constitutes y
 
 ---
 
-## Contact Us
+# Contact Us
 
 If you have any questions about this Policy, or wish to raise a concern about a cancellation or refund, please contact us:
 
