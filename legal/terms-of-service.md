@@ -10,7 +10,7 @@ title: Terms of Service
 **Address**: Unit 2201, 10 Atchison Street, St Leonards NSW 2065 \
 **Email**: [contact@helpnearby.com.au](mailto:contact@helpnearby.com.au) 
 
-These Terms of Service ("Terms") form a legally binding agreement between you ("you", "User") and Help Nearby Pty Ltd (ACN 692 636 963) of 10 Atchison Street, St Leonards NSW 2065, Australia ("Help Nearby", "we", "us", "our"). They govern your access to and use of:
+These Terms of Service ("Terms") form a legally binding agreement between you ("you", "User") and Help Nearby Pty Ltd (ACN 692 636 963) of 10 Atchison Street, St Leonards NSW 2065, Australia ("Help Nearby", "we", "us", "our"). These Terms of Service also constitute the End User Licence Agreement (EULA) for our mobile applications. They govern your access to and use of:
 
 * our website located at [https://www.helpnearby.com.au/](https://www.helpnearby.com.au/) (the **Website**),
 * our mobile applications (the **App**), and
@@ -301,7 +301,7 @@ We may remove or restrict access to any User Content or messages that we reasona
 
 ---
 
-# Intellectual Property
+# Intellectual Property and Licence to Use the Platform
 
 **Our rights**
 The Platform and all associated content (excluding User Content), including software, source code, databases, designs, text, graphics, logos, icons, photographs, and audio‑visual materials ("Help Nearby Content") are owned or licensed by Help Nearby and are protected by copyright, trade mark, and other intellectual property laws.
