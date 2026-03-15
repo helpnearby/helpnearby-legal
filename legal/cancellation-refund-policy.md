@@ -5,7 +5,7 @@ title: Cancellation & Refund Policy
 
 # About This Policy
 
-**Last updated:** 215 Mar 2026 \
+**Last updated:** 15 Mar 2026 \
 **Company:** Help Nearby Pty Ltd \
 **Address:** Unit 2201, 10 Atchison Street, St Leonards NSW 2065, Australia \
 **Email:** [contact@helpnearby.com.au](mailto:contact@helpnearby.com.au) 
