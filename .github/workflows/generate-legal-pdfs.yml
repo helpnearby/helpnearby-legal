@@ -1,18 +1,30 @@
 name: Generate legal PDFs
 
 on:
-  push:
-    branches: [ main ]
+  pull_request:
+    types: [opened, synchronize, reopened]
     paths:
       - "legal/*.md"   # only run when markdown policies change
+      - "titlepage.tex"
+      - "section-breaks.tex"
+
+concurrency:
+  group: legal-pdfs-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
 
 jobs:
   build-pdfs:
+    if: github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          fetch-depth: 0
 
       - name: Install pandoc and LaTeX
         run: |
@@ -25,6 +37,7 @@ jobs:
 
       - name: Generate PDFs from Markdown
         run: |
+          rm -rf legal-pdf
           mkdir -p legal-pdf
           for file in legal/*.md; do
             base="$(basename "$file" .md)"
@@ -43,4 +56,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update generated legal PDFs"
-          file_pattern: legal-pdf/*.pdf
+          branch: ${{ github.head_ref }}
+          file_pattern: legal-pdf
+          add_options: "-A"
