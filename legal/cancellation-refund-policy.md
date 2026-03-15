@@ -206,6 +206,7 @@ For the purposes of this Policy:
 ---
 
 # Customer Cancellations
+
 ## Cancellation Windows and Fees
 For clarity in this section:
 
@@ -309,6 +310,7 @@ A "Customer no-show" occurs when:
 *  the Customer does not respond to calls or messages from the Service Provider at the Scheduled Start Time; AND
 
 *  the Customer has not cancelled in advance through the Platform.
+
 ## Service Provider Requirements for No-Show Claims
 To claim a cancellation or call-out fee for a Customer no-show, the Service Provider must:
 
@@ -339,6 +341,7 @@ d) Report the no-show through the Platform:
 *  On the bookings screen, raise a dispute and select “Customer no-show”, and upload evidence.
 
 *  provide written description of attempts made
+*  
 ## Outcome for Customer
 A “Customer no-show” will be treated the same as a cancellation of the service less than 24 hours before the start of the service. Please refer to section 4.1 Cancellation Windows and Fees. 
 ## Customer Challenges to No-Show Claims
@@ -352,6 +355,7 @@ If you believe you did not no-show, you may dispute the claim within 7 days by:
 
 *  proving extenuating circumstances (medical emergency, police incident, natural disaster).
 Help Nearby will review evidence from both parties and make a determination within 7 days.
+
 ## Service Provider No-Show
 A "Service Provider no-show" occurs when the Service Provider:
 
@@ -360,8 +364,10 @@ A "Service Provider no-show" occurs when the Service Provider:
 *  cannot be contacted by the Customer at or after the Scheduled Start Time; or
 
 *  indicates they will not be attending after the Scheduled Start Time.
+
 ## Outcome for Service Provider No-Show
 No-Show for service providers will be treated the same as a service provider cancellation. Please refer to section 4.1.3 for more details. Repeated no-shows may result in account termination or suspension.
+
 ## Late Arrival
 If the service provider is up to 15 minutes late without adequate notice to the user:
 
@@ -532,6 +538,7 @@ Payment should be paid to the Service Provider (for time, travel, or partial wor
 ---
 
 # Completion of Jobs and Release of Funds
+
 ## Completion of Job
 A Job is manually completed when: 
 
@@ -541,6 +548,7 @@ A Job is manually completed when:
 Once manually completed, and subject to any disputes raised within the timeframe in Section 9.4, the Payment will be released to the Service Provider in accordance with Section 9 of the Terms.
 
 Once the job has been marked as complete, both the customer and service provider are stating that they are satisfied with the work that has taken place. Should an issue arise disputes can be made within 7 days or after by emailing contact@helpnearby.com.au
+
 ## Deemed Completion
 If:
 
@@ -552,8 +560,10 @@ If:
 
 *  OR 7 days have passed since the Scheduled Completion Time and Help Nearby has not been notified of any issues;
 THEN the Job will be deemed completed and the Payment will be released.
+
 ## Dispute Window
 After Completion Even after a Job is marked as manually or deemed completed, a Customer may raise a dispute within 7 days or if later contact@helpnearby.com.au
+
 ## Release Timing and Holds
 Subject to the above, payments are typically released to Service Providers on the following Wednesday
 Help Nearby may hold payments for the duration of a dispute where:
@@ -568,8 +578,10 @@ Help Nearby may hold payments for the duration of a dispute where:
 Service Providers will be notified of any holds and the reasons for them.
 
 ## Warranty and Defects Liability
+
 ### Implied Warranty Under ACL
 Under Australian Consumer Law s60, Services must be provided with due care and skill. This creates an implied warranty that workmanship will be competent and defects will not emerge from poor work quality. 
+
 ### Express Warranties
 Some Service Providers may offer express warranties on their work (e.g., "12
 * month warranty on all plumbing repairs"). These warranties:
@@ -579,6 +591,7 @@ Some Service Providers may offer express warranties on their work (e.g., "12
 *  will be visible on the Service Provider's profile or stated in Booking details
 
 *  are enforceable directly against the Service Provider
+
 ### Timeframes for Defects Claims
 The dispute windows in Section 4 are guidelines for Help Nearby's internal payment processes. They do not limit your ACL rights. Under ACL, "reasonable time" to claim for defects depends on:
 
@@ -612,6 +625,7 @@ you may need legal assistance for claims beyond 90 days.
 ---
 
 # Disputes and Our Role
+
 ## Initial Resolution Between Parties
 Before contacting Help Nearby, the Customer and Service Provider should attempt to resolve any disagreement using:
 
@@ -621,6 +635,7 @@ Before contacting Help Nearby, the Customer and Service Provider should attempt 
 
 *  good faith negotiation.
 Many disputes can be resolved quickly when parties communicate clearly about concerns and expectations.
+
 ## Requesting Help Nearby Assistance
 If you cannot resolve the matter within 3 business days, either party may request Help Nearby assistance by:
 
@@ -636,6 +651,7 @@ Include:
 *  What outcome you're seeking (refund amount, payment release, etc.)
 
 *  Any supporting evidence (photos, receipts, messages, expert reports)
+
 ##  Our Investigation Process
 We will:
 Acknowledge your dispute within 3 business day
@@ -659,6 +675,7 @@ Review all available information:
 May request additional information from either party (7 business days to respond)
 May conduct phone interviews with parties
 Aim to make a determination within 7 business days of receiving all information
+
 ## Decision Criteria
 Our determination will consider:
 
@@ -682,6 +699,7 @@ We will aim for outcomes that are:
 *  Protect genuine Service Providers and Customers
 
 *  Deter abuse of the Platform
+
 ## Possible Outcomes
 Depending on the dispute, Help Nearby may determine to:
 
@@ -696,7 +714,8 @@ Depending on the dispute, Help Nearby may determine to:
 *  Refund and provide credit for rebooking with different Service Provider
 
 *  No action if insufficient evidence or dispute is frivolous
-# Notification of Decision
+
+## Notification of Decision
 We will notify both parties by email of our determination, including:
 
 *  Brief reasoning
@@ -716,6 +735,7 @@ If you disagree with our determination, you may request internal review by:
 *  Requesting senior management review
 
 *  A different Help Nearby staff member will review and respond within 7 business days.
+
 ## External Dispute Resolution
 If you're not satisfied with our determination or internal review, you may:
 For Consumer disputes:
@@ -747,6 +767,7 @@ For Service Provider disputes:
 For Privacy complaints:
 
 *  OAIC: 1300 363 992 | www.oaic.gov.au
+
 ## Nature of Our Decision
 Any determination we make is solely for the purposes of:
 
@@ -767,6 +788,7 @@ Our determination:
 
 *  MAY be used as evidence in external proceedings (but is not binding on courts)
 If either party commences legal proceedings, we may suspend our internal determination pending the court outcome.
+
 ## Cooperation with Legal Proceedings
 If either party commences proceedings in a court or tribunal:
 
@@ -783,6 +805,7 @@ If either party commences proceedings in a court or tribunal:
 ---
 
 # Processing of Refunds
+
 ## Method
 Refunds will be processed to the original payment method used for the Payment:
 
@@ -792,6 +815,7 @@ Refunds will be processed to the original payment method used for the Payment:
 
 *  Apple Pay/Google Pay → refund to the linked card
 We cannot process refunds to different payment methods due to fraud prevention requirements.
+
 ## Timing
 From our side (Help Nearby initiates refund):
 
@@ -816,6 +840,7 @@ Total timeframe:
 
 *  Complex: up to 25 business days
 If you have not received your refund within these timeframes, contact us at contact@helpnearby.com.au with your Booking reference and refund reference number.
+
 ## Partial Refunds
 Where only part of the Payment is refunded:
 
@@ -844,6 +869,7 @@ If you paid with a foreign currency card:
 *  foreign transaction fees charged by your bank are typically non-refundable;
 
 *  Help Nearby is not responsible for currency conversion differences or bank fees.
+
 ## Failed Refunds
 If a refund cannot be processed because:
 
@@ -860,6 +886,7 @@ we will:
 
 *  sprocess the refund within 7 business days of receiving valid details; or
 if you do not respond within 90 days, attempt to contact you by other means and eventually may be required to remit unclaimed funds to the relevant state unclaimed money authority.
+
 ## Refund Confirmation
 You can view your refund status at any time by:
 
@@ -899,6 +926,7 @@ Common chargeback reasons:
 *  "not as described"
 
 *  "cancelled and not refunded"
+
 ## Notification to Service Provider
 If a Customer initiates a chargeback relating to your Booking, we will:
 
@@ -909,6 +937,7 @@ If a Customer initiates a chargeback relating to your Booking, we will:
 *  request any evidence you have to contest it (e.g., completion photos, signed receipts, communication logs, access timestamps);
 
 *  give you 7 days to respond with evidence.
+
 ## Contesting the Chargeback
 We will submit your evidence to Stripe and the card networks to contest the chargeback. The decision is made by the Customer's bank or card network, not by Help Nearby.
 Chargeback outcomes:
@@ -918,6 +947,7 @@ Chargeback outcomes:
 *  Overturned (bank sides with Service Provider-payment stands)
 
 *  Partial (bank splits the amount)
+
 ## If Chargeback is Upheld
 If a chargeback is upheld and you have already received the payout:
 
@@ -939,7 +969,9 @@ If you dispute the chargeback decision, you may:
 *  pursue the Customer directly for payment (though we recommend legal advice first); 
 
 *  seek independent legal recourse.
+
 ## Recovery from Future Payouts
+
 We may only deduct chargeback amounts from future payouts if:
 
 *  you have consented to this deduction method; or
@@ -954,7 +986,9 @@ We will notify you before making any deduction, including:
 *  which future payout(s) will be affected;
 
 *  your right to dispute the deduction.
+
 ## Repeat Chargebacks
+
 If you receive multiple chargebacks, we may:
 
 *  conduct a review of your Account;
@@ -984,7 +1018,9 @@ Help Nearby does not guarantee recovery of fraudulent chargebacks but will assis
 ---
 
 # Goodwill Refunds and Credits
+
 ## Discretionary Refunds
+
 In some circumstances, Help Nearby may provide a refund, credit, or compensation 
 even where this Policy does not strictly require it. These are called "goodwill" 
 refunds and may be offered when:
@@ -1011,14 +1047,14 @@ Goodwill refunds:
 *  may be offered as Platform credit rather than monetary refund
  
 ## Platform Credits
+
 Where offered, Platform credits:
 
 *  can be used for future Bookings on Help Nearby
 
 *  have expiry dates (typically 12 months from issue)
 
-*  are non
-* transferable and have no cash value
+*  are non-transferable and have no cash value
 
 *  cannot be refunded to your payment method except where required by law, including ACL consumer guarantees
 
@@ -1027,6 +1063,7 @@ Where offered, Platform credits:
 *  may have terms and conditions attached (e.g., "cannot be used with other promotions")
  
 ## Compensation for Platform Failures
+
 If Help Nearby's Platform experiences technical issues that:
 
 *  prevent you from cancelling a Booking within the appropriate timeframe
@@ -1061,10 +1098,10 @@ To claim compensation for Platform failures:
 ---
 
 # Changes to This Policy
+
 We may update this Policy from time to time to reflect changes in our processes, the Platform, or applicable laws. When we do, we will update the “Last updated” date at the top of this document. 
 If we make material changes, we will take reasonable steps to notify you (for example, by email, in‑app notice, or updating the “Last updated” date above) within 30 days. 
 Your continued use of the Platform after any update to this Policy constitutes your acceptance of the revised Policy.
-
 
 ---
 
