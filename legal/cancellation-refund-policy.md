@@ -212,7 +212,7 @@ For clarity in this section:
 
 *  Job Price means the amount charged by the Service Provider for the Booking.
 
-*  Platform Fee means the fee charged to the Customer for use of the Platform. The Platform Fee is 2.5% of the Job Price plus $0.50.
+*  Platform Fee means the fee charged to the Customer for use of the Platform. The Platform Fee is 2.0% of the Job Price plus $0.50.
 
 *  Provider Fee means the fee charged by the Platform to the Service Provider. The Provider Fee is 3% of the Job Price.
 Unless otherwise stated in the Booking confirmation, the following rules apply.
@@ -230,13 +230,15 @@ When a Booking is completed successfully:
 If a Customer cancels a Booking, the refund depends on how close the cancellation occurs to the Scheduled Start Time. The Platform Fee is non-refundable unless the Service Provider cancels or applicable law requires otherwise.
 More than 72 hours before Scheduled Start Time
 The Customer receives 100% of the Job Price refunded. The platform fee is non-refundable. 
-72
-* 24 hours before Scheduled Start Time
+
+**72 hours before Scheduled Start Time**
 
 *  Customer receives: 70% of the Job Price refunded, minus the non-refundable platform fee.
 
 *  Service Provider receives: 30% of the Job Price, minus the Provider Fee
 Less than 24 hours before Scheduled Start Time
+
+**24 hours before Scheduled Start Time**
 
 *  Customer receives: 50% of the Job Price refunded, minus the non-refundable platform fee.
 
